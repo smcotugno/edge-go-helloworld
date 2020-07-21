@@ -15,7 +15,7 @@
 
 # Go Edge, Microservice or Backend for Frontend with Gin
 
-This **Go** Starter Kit Template can be the foundation for an Edge , Cloud-Native Microservice or a Backend for Frontend solution.
+This **Go** Starter Kit Template can be the foundation for an Edge , Cloud-Native Microservice or a Backend for Frontend solution. Added change
 
 ## Features
 
